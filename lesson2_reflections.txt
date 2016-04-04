@@ -13,3 +13,10 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	* Only move the modified files to the staging area when you are ready to commit a logical change.
+
+---
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	* If you want to make a change to the program but you do not want the change to be made to the master branch. You can set up a separate branch and make the changes there.
+	* Branches help you to keep things separate. 
