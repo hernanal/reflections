@@ -1,0 +1,91 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?  
+  * What has been easy?
+  * What has been difficult? 
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?  
+
+---
+
+Your response goes here!
+
+	* I haven't learned any new skills. I came in with an existing knowledge of how to write HTML. Good refresher though.
+
+	* Yes.
+
+	* No.
+
+	* Not applicable. No challenges so far.
+
+---
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	* Since you are able to see all the changes that you have made you in the past then you might be able to avoid having to make those changes on future projects that you work on. 
+
+---
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	*Pros of manually choosing to commit with Git is that you can make sure the commits are the right size. You can also provide a brief explanation for each commit so in the future you understand why you made the change.  
+	*Cons are that you may forget to commit.
+	*Pros of having versions auto saved is that you can go back to those versions whenever you want.
+	*Cons it takes up space on your computer, you may have a difficult time filtering through all the changes and figuring out why you made them since there isn't a clear explanation for each, like there would be with a committ.
+
+---
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	*Git is designed for coding so it make sense that you keep track of all the files associated with a specific program and the commit effected each file.
+	*Google Docs on the other hand is not specifically for programming so it probably does not assume that there is a connection between each file. 
+
+---
+
+ How can you use the commands git log and git diff to view the history of files?
+
+ 	* Git log will show you all the commits that you have submitted while working on a project. This is the history of the changes that have been made. 
+ 	* Git diff allows you to compare commits to get a deeper look at what has changed. It will show you the lines that were added, removed, and what stayed the same.  
+
+---
+
+How might using version control make you more confident to make changes that could break something?
+
+	* Much more confident. I know that if I make a mistake I can go back to the log and return it to the condition it was in before the bug and isolate the change that I made incorrectly.
+
+---
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	* I don't have anything in mind yet. I am interested in learning more about what I can use Git for. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
