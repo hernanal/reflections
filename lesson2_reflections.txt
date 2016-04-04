@@ -32,3 +32,10 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	* The result of the merge is that all the commits between the two branches will show up on the logs for each. We represent the diagram this way to show that the commits from each branch are mixed together. They will show up in the log according to their time stamps. 
+
+---
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	* Pro for git doing it is that you have less work to do. Con is that sometimes it will not know what it should merge if changes were made to the same part of the file. 
+	* Pro of doing it manually is that you always know what needs to be merged together. Con is that you have to do it manually. 
