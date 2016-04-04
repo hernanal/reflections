@@ -26,3 +26,9 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 	* By creating a diagram of the branches you get a visual representation of the different commits on each branch and how they vary from branch to branch. 
+
+---
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	* The result of the merge is that all the commits between the two branches will show up on the logs for each. We represent the diagram this way to show that the commits from each branch are mixed together. They will show up in the log according to their time stamps. 
