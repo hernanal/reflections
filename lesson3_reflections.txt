@@ -18,5 +18,11 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	* A fork is the same as a clone except it is used only to make a copy of a repository on GitHub. You would use this any time you want to make a copy of a repository on GitHub to add to your personal GitHub profile. 
 
+---
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	* If you know that you are not going to have access to internet for a while but you still want to work on a project. You would synce your project before you lose internet connection and work on the most up to date version while you are offline. Re-syncing when you get back online. 
+
 
   
